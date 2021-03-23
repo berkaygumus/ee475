@@ -1,1 +1,1 @@
-Homeworks of Introduction to Image Processing Class
+Introduction to Image Processing Homeworks
